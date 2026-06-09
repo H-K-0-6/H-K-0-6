@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student & Software Developer from Bahrain 🇧🇭</h3>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:milmon992mw@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
