@@ -43,8 +43,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=H-K-0-6&show_icons=true&theme=transparent&hide_border=true" alt="Hussain's GitHub Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;OOP+Programmer;Full-Stack+Software+Developer" alt="Typing SVG" />
 </p>
